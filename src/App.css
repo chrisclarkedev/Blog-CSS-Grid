@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -19,4 +19,16 @@
 
 .App-link {
   color: #09d3ac;
+} */
+@import url('https://fonts.googleapis.com/css?family=Heebo&display=swap');
+*,
+*:before,
+*::after{
+  box-sizing: border-box;
+}
+
+body{
+  background: #eee;
+  color: #191919;
+  font-family: 'Heebo', sans-serif;
 }
