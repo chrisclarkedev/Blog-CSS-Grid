@@ -66,3 +66,16 @@ h2 {
   margin-top: 0;
   text-transform: uppercase;
 }
+
+figure {
+  margin: 0;
+}
+
+.featured-image-1 {
+  grid-row: 2 / 3;
+}
+
+img{
+  height: auto;
+  width: 100%;
+}
