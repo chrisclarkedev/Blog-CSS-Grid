@@ -11,7 +11,7 @@ function App() {
             <h1>Blog with CSS Grid</h1>
           </header>
           <figure class="featured-image-1">
-            <img src="https://images.unsplash.com/photo-1550792220-553fd02a239c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"></img>
+            <img src={require('./components/images/6.jpeg')} />
           </figure>
         </div>
       </body>
