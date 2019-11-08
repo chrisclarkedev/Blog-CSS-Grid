@@ -59,3 +59,10 @@ header:after{
   height: 20px;
   width: auto;
 }
+
+h1,
+h2 {
+  font-family: 'Fjalla One', sans-serif;
+  margin-top: 0;
+  text-transform: uppercase;
+}
