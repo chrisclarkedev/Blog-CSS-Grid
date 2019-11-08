@@ -32,3 +32,22 @@ body{
   color: #191919;
   font-family: 'Heebo', sans-serif;
 }
+
+.wrapper {
+  display:grid;
+  grid-gap: 20px;
+  grid-template-columns: 1fr 2fr;
+  grid-auto-rows:minmax(100px, auto);
+  margin: 24px;
+  max-width: 1000px;
+  position: relative;
+}
+
+.wrapper>* {
+grid-column: 1 / span 2;
+}
+
+.header{
+  font-size: 1.5em;
+  grid-row: 1 / 2;
+}
