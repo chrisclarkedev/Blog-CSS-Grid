@@ -39,8 +39,8 @@ function App() {
           </figure>
           <div class="number-4">4</div>
           <article class="article article-4">
-            {/* <h2>Jake Phelps</h2>
-            <p>Skateboarding is the sound of living.</p> */}
+            <h2>Jake Phelps</h2>
+            <p>Skateboarding is the sound of living.</p>
           </article>
         </div>
       </body>
