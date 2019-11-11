@@ -98,7 +98,7 @@ img{
 .number-1,
 .number-4 {
   align-self: end;
-  color: rdbe(104, 23, 186, 0.5);
+  color: rgb(221, 91, 221);
   font-family: 'Fjalla One', sans-serif;
   font-size: 480px;
   line-height: 480px;
