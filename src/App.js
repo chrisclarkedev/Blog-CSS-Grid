@@ -27,7 +27,7 @@ function App() {
             <p>All skateboarding is, is putting ideas into action.</p>
           </article>
           <figure class="featured-image-3">
-            <img src={require('./components/images/1.jpeg')} />
+            <img src={require('./components/images/8.jpeg')} />
           </figure>
           <div class="number-3">3</div>
           <article class="article article-3">
