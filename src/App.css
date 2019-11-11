@@ -89,7 +89,9 @@ img{
 }
 
 .featured-image-2,
-.number-2 {
+.featured-image-5,
+
+.number-2, .number-5 {
   grid-row: 4 / 5;
 }
 
@@ -109,11 +111,12 @@ img{
 }
 
 .featured-image-2,
-.number-2{
+.featured-image-5,
+.number-2, .number-5{
   align-self: end;
 }
 
-.number-2{
+.number-2, .number5{
   color: #eee;
   font-size: 200px;
   justify-self: end;

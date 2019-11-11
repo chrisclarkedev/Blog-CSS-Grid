@@ -42,6 +42,7 @@ function App() {
             <h2>Jake Phelps</h2>
             <p>Skateboarding is the sound of living.</p>
           </article>
+          {/* 5 & 6 */}
         </div>
       </body>
     </div>
