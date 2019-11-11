@@ -123,7 +123,7 @@ img{
   line-height: 160px;
 }
 
-.number-3 {
+.number-3, .number-6{
   background: black;
   border-radius: 130px;
   color: white;
