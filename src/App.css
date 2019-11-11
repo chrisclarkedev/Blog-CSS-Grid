@@ -105,6 +105,10 @@ img{
   grid-column: 1 / 2;
 }
 
+.number-4{
+  color:rgb(172, 123, 172);
+}
+
 .article-1,
 .article-4 {
   grid-column: 2 / 3;
@@ -117,7 +121,7 @@ img{
 }
 
 .number-2, .number5{
-  color: #eee;
+  color: rgb(93, 19, 230);
   font-size: 200px;
   justify-self: end;
   line-height: 160px;
