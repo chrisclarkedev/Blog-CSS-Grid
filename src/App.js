@@ -8,15 +8,15 @@ function App() {
       <body>
         <div class="wrapper">
           <header class="header">
-            <h1>Blog with CSS Grid</h1>
+            <h1>Don't Fail To Try, Fail Trying</h1>
           </header>
           <figure class="featured-image-1">
             <img src={require('./components/images/7.jpeg')} />
           </figure>
           <div class="number-1">1</div>
           <article class="article article-1">
-            <h2>Blog with CSS Grid</h2>
-            <p>lorem ipsum</p>
+            <h1>Marc Johnson</h1>
+            <p>All skateboarding is, is putting ideas into action</p>
           </article>
           <figure class="featured-image-2">
             <img src={require('./components/images/3.jpeg')} />
@@ -27,26 +27,18 @@ function App() {
             <p>lorem ipsum</p>
           </article>
           <figure class="featured-image-3">
-            <img src={require('./components/images/3.jpeg')} />
+            <img src={require('./components/images/1.jpeg')} />
           </figure>
-          <div class="number-2">3</div>
+          <div class="number-3">3</div>
           <article class="article article-3">
             <h2>Blog with CSS Grid</h2>
             <p>lorem ipsum</p>
           </article>
           <figure class="featured-image-4">
-            <img src={require('./components/images/3.jpeg')} />
+            <img src={require('./components/images/4.jpeg')} />
           </figure>
           <div class="number-4">4</div>
           <article class="article article-4">
-            <h2>Blog with CSS Grid</h2>
-            <p>lorem ipsum</p>
-          </article>
-          <figure class="featured-image-5">
-            <img src={require('./components/images/3.jpeg')} />
-          </figure>
-          <div class="number-5">5</div>
-          <article class="article article-5">
             <h2>Blog with CSS Grid</h2>
             <p>lorem ipsum</p>
           </article>
