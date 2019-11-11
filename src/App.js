@@ -31,16 +31,16 @@ function App() {
           </figure>
           <div class="number-3">3</div>
           <article class="article article-3">
-            <h2>Blog with CSS Grid</h2>
-            <p>lorem ipsum</p>
+            <h2>Shaun White</h2>
+            <p>Skateboarding is a way to let your body control the mind.</p>
           </article>
           <figure class="featured-image-4">
             <img src={require('./components/images/4.jpeg')} />
           </figure>
           <div class="number-4">4</div>
           <article class="article article-4">
-            <h2>Blog with CSS Grid</h2>
-            <p>lorem ipsum</p>
+            {/* <h2>Jake Phelps</h2>
+            <p>Skateboarding is the sound of living.</p> */}
           </article>
         </div>
       </body>
