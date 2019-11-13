@@ -52,6 +52,13 @@ grid-column: 1 / span 2;
   grid-row: 1 / 2;
 }
 
+header:before{
+  background: cyan;
+  content: "";
+  display: block;
+  height: 20px;
+  width: auto;
+}
 header:after{
   background: cyan;
   content: "";
