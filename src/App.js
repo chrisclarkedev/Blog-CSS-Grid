@@ -43,14 +43,7 @@ function App() {
             <p>Skateboarding is the sound of living.</p>
           </article>
           {/* 5 & 6 */}
-          <figure class="featured-image-4">
-            <img src={require('./components/images/2.jpeg')} />
-          </figure>
-          <div class="number-5">4</div>
-          <article class="article article-5">
-            <h2>Rob Dyrdek</h2>
-            <p>In skateboarding your never bigger than the streets</p>
-          </article>
+
         </div>
       </body>
     </div>
