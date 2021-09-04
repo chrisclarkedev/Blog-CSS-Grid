@@ -43,7 +43,6 @@ function App() {
             <p>Skateboarding is the sound of living.</p>
           </article>
           {/* 5 & 6 */}
-
         </div>
       </body>
     </div>

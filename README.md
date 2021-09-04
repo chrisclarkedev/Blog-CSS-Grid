@@ -1,5 +1,5 @@
 # Blog (CSS Grid)
 
+## Description
 
-## Description ###
-Mockup blog that uses CSS Grid and is responsive for smartphone and tablet use.
+Mockup blog that uses CSS Grid made to be responsive for tablets and phones.
